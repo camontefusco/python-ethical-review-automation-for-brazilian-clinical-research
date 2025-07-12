@@ -1,3 +1,4 @@
+![Banner](bannerREC.png)
 
 # Python OpenAI Automated Ethical Review for SUS Proposals
 
