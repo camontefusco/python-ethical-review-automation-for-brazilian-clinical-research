@@ -31,7 +31,7 @@ Ethical review is critical in clinical research to protect participants and ensu
 - `ethical_review_results_clean.csv` — Cleaned and normalized CSV file with ethical review results.
 - `Ethical_Review_Report.pdf` — Comprehensive PDF report summarizing key findings for each project.
 - `REC CEP Research Proposal Template (Word)` — Official template for clinical research proposals (reference).
-- `synthetic_examples/` — Folder containing synthetic example proposals for testing:
+- `project_examples/` — Folder containing synthetic example proposals for testing:
   - `Evaluation of Telemedicine Implementation to Improve Hypertension Control in Primary Care in Manaus-AM.rtf`
   - `Observational Study on the Prevalence and Treatment of Tuberculosis in Indigenous Communities of the Metropolitan Region of Manaus.rtf`
 
